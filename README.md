@@ -211,7 +211,8 @@ Top level domain expansion
 
 ## OUTPUT:
 
-<img width="1283" height="715" alt="image" src="https://github.com/user-attachments/assets/db802cb9-9201-4d90-b01a-4b540baf6325" />
+
+<img width="805" height="425" alt="image" src="https://github.com/user-attachments/assets/6e62657c-dd7e-406e-8c57-27c21709e58e" />
 
 
 ### Summary
@@ -245,7 +246,8 @@ This program is useful for pentesters, ethical hackers and forensics experts. It
 
 ## Output:
 
-<img width="844" height="709" alt="image" src="https://github.com/user-attachments/assets/04744f06-081a-437b-a79f-a6981e1224f4" />
+<img width="808" height="681" alt="image" src="https://github.com/user-attachments/assets/89963ef2-0b44-4596-b42d-fc4ceb71ad51" />
+
 
 
 ### Summary
@@ -274,14 +276,8 @@ select any username in the first column of the above file and check the same
 
 ## Output:
 
-<img width="716" height="372" alt="image" src="https://github.com/user-attachments/assets/7eeed79f-c0c9-4de5-8c89-38b25beba7c6" />
-.
-.
-.
-.
 
-<img width="659" height="355" alt="image" src="https://github.com/user-attachments/assets/33ba6b55-04fa-4f6b-a351-edd136eaf766" />
-
+<img width="807" height="413" alt="image" src="https://github.com/user-attachments/assets/bf0856af-15c9-4fd9-9cd0-d08266dd23a6" />
 
 ### Summary
 
@@ -309,7 +305,8 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 ## OUTPUT:
 
-<img width="542" height="177" alt="image" src="https://github.com/user-attachments/assets/66bb473b-2444-476e-bfb0-83e48841bf20" />
+<img width="807" height="266" alt="image" src="https://github.com/user-attachments/assets/23c2bc3d-2b2f-45fe-807b-1613727d2d03" />
+
 
 ### Summary
 
