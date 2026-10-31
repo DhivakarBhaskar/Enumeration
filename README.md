@@ -279,6 +279,9 @@ select any username in the first column of the above file and check the same
 
 <img width="807" height="413" alt="image" src="https://github.com/user-attachments/assets/bf0856af-15c9-4fd9-9cd0-d08266dd23a6" />
 
+<img width="957" height="502" alt="image" src="https://github.com/user-attachments/assets/d22bd6eb-e044-4904-b641-14d27e333c66" />
+
+
 ### Summary
 
 * SMTP User Enumeration
