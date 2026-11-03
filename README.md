@@ -37,7 +37,8 @@ Following searches for all the sites that is in the domain yahoo.com
 
 ## Output:
 
-<img width="1920" height="1200" alt="site" src="https://github.com/user-attachments/assets/4dc0c528-96c1-4f89-a917-22924c0df8d5" />
+<img width="880" height="556" alt="image" src="https://github.com/user-attachments/assets/00d3be2e-02db-45c3-b800-2e2cb043080b" />
+
 
 
 ### Summary
@@ -61,7 +62,8 @@ Following searches for pdf file in the domain yahoo.com
 
 ## Output:
 
-<img width="1920" height="1200" alt="filetype" src="https://github.com/user-attachments/assets/b02992e1-01a7-4586-bb7e-f00bf5d0838d" />
+<img width="928" height="552" alt="image" src="https://github.com/user-attachments/assets/fc7806c5-d311-4986-8bb6-0624825c68de" />
+
 
 
 
@@ -84,7 +86,8 @@ intext: This operator allows you to search for pages that contain specific text 
 
 ## Output:
 
-<img width="1920" height="1200" alt="intext" src="https://github.com/user-attachments/assets/32222c0e-8501-4c9a-a4cf-6679a340d577" />
+<img width="918" height="547" alt="image" src="https://github.com/user-attachments/assets/90dd3ae0-e006-440d-8ff9-749e8a1c0a38" />
+
 
 
 
