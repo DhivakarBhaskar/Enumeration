@@ -157,7 +157,8 @@ link: This operator allows you to search for pages that link to a specific URL. 
 
 ## Output:
 
-<img width="1895" height="1027" alt="image" src="https://github.com/user-attachments/assets/7790de78-5c56-4c39-8dba-6af6859f9f5b" />
+<img width="828" height="492" alt="image" src="https://github.com/user-attachments/assets/7b7b528f-5aa2-42b4-9967-f82cbf56fd83" />
+
 
 
 ### Summary
