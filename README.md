@@ -110,7 +110,8 @@ inurl: This operator allows you to search for pages that contain specific text w
 
 ## Output:
 
-<img width="1920" height="1200" alt="inurl" src="https://github.com/user-attachments/assets/c30260ab-cc32-461b-b616-7990594cbd9b" />
+<img width="833" height="506" alt="image" src="https://github.com/user-attachments/assets/7be0d659-2ce1-4309-ac46-0a2e614f3faf" />
+
 
 
 ### Summary
@@ -131,10 +132,6 @@ Emphasizes need for securing admin endpoints.
 
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
-
-## Output:
-
-<img width="1920" height="1200" alt="inurl" src="https://github.com/user-attachments/assets/fea0e24e-a575-4e34-9d10-d708fecb106b" />
 
 
 ### Summary
