@@ -176,9 +176,6 @@ Highlights basic backlink reconnaissance.
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
-## Output:
-
-<img width="1920" height="1200" alt="cache" src="https://github.com/user-attachments/assets/d6aa7116-4a06-4718-b516-4a890552ca5a" />
 
 
 
